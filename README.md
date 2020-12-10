@@ -10,7 +10,7 @@ Alumnos:
 * José Pablo Ramírez Mayorga - 20180151101
 * Sebastian Vargas Rojas - 20170130451
 * Tommaso Ribaudo - 2014010854
-* Kenneth Antonio Murillo Castillo -
+* Kenneth Antonio Murillo Castillo - 20180112124
 * Alexis Forchiney - 20180111925
 * Bryan Zamora Alfaro - 20160120448
 * Emily Bolivar Calvo -
